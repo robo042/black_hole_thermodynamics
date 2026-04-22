@@ -49,3 +49,17 @@ The main worked example is a one-solar-mass black hole.
 - `numpy`
 - `qrcode`
 - `scipy`
+
+---
+
+## More Fun Black Hole Stuff
+- ESA Lensing
+  - https://www.esa.int/gsp/ACT/phy/Projects/Blackholes/WebGL/
+- NASA 360
+  - https://www.youtube.com/watch?v=dGEIsnBRWGs
+- Other Simulators
+  - https://blackhole-simulation.vercel.app/
+  - https://oseiskar.github.io/black-hole/
+  - https://invernessdesignstudio.com/free-space-simulations/black-hole-simulator
+  - https://adriwin06.github.io/black-hole/
+  - https://testtubegames.com/blackhole.html
