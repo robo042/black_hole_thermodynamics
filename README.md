@@ -18,7 +18,7 @@ numerical estimates, and plots.
 
 ## Overview
 
-For a non-rotating, uncharged black hole of mass \( M \), this project computes
+For a non-rotating, uncharged black hole of mass $M$, this project computes
 and discusses quantities such as
 
 $$
