@@ -43,8 +43,9 @@ The main worked example is a one-solar-mass black hole.
 
 ### Python Packages
 
-- `numpy`
-- `matplotlib`
-- `scipy`
 - `astropy`
 - `jupyter`
+- `matplotlib`
+- `numpy`
+- `qrcode`
+- `scipy`
