@@ -3,6 +3,8 @@
 A small physics/numerics project exploring basic Schwarzschild black hole
 thermodynamics.
 
+![Banner](assets/banner.gif)
+
 This repo works through a sequence of standard quantities and estimates:
 
 - Schwarzschild radius
@@ -58,8 +60,9 @@ The main worked example is a one-solar-mass black hole.
 - NASA 360
   - https://www.youtube.com/watch?v=dGEIsnBRWGs
 - Other Simulators
+  - https://adriwin06.github.io/black-hole/
+    - this is where that sweet banner came from
   - https://blackhole-simulation.vercel.app/
   - https://oseiskar.github.io/black-hole/
   - https://invernessdesignstudio.com/free-space-simulations/black-hole-simulator
-  - https://adriwin06.github.io/black-hole/
   - https://testtubegames.com/blackhole.html
